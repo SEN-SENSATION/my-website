@@ -1,0 +1,36 @@
+html {
+  font-family: "Lexend", "IBM Plex Sans Thai" !important;
+  font-size: 10px;
+}
+
+body {
+  margin: 0;
+}
+
+main {
+  // margin: 2rem 4rem 2rem 4rem;
+  margin: 2rem;
+  min-height: calc(100vh - 18.5rem);
+}
+
+h1 {
+  font-size: 3.5rem;
+  margin-top: 0;
+  margin-bottom: 1rem;
+}
+
+h2 {
+  font-size: 3rem;
+}
+
+p {
+  font-size: 1.75rem;
+}
+
+a {
+  color: #6a6a6a;
+}
+
+.r {
+  color: #ba0000;
+}
