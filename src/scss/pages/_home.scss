@@ -28,6 +28,13 @@
     border-radius: 1.1rem;
     padding: 2rem;
 
+    @include respond(tab-port) {
+      width: 60%;
+    }
+    @include respond(breaking) {
+      width: 80%;
+    }
+
     &--top {
       h3 {
         font-size: 3rem;
