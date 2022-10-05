@@ -7,7 +7,7 @@ const Footer = () => {
       </div>
 
       <div className="footer__right">
-        <h4>Contact Me!</h4>
+        <h4>My Website alpha</h4>
       </div>
     </div>
   );
