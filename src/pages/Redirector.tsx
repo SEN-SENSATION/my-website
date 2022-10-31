@@ -8,10 +8,10 @@ const Redirecting = () => {
   useEffect(() => {
     if (param.path === "newtonian-pdf-1") {
       setUrl(
-        "https://drive.google.com/file/d/1OzvNxB0lbTMfnPlLydJ0w0DydL0U7TIm/view?usp=sharing"
+        "https://drive.google.com/file/d/1NEBp3h-GWxHdTAYCwU-pZCvZGpAtJ4vh/view?usp=sharing"
       );
       location.href =
-        "https://drive.google.com/file/d/1OzvNxB0lbTMfnPlLydJ0w0DydL0U7TIm/view?usp=sharing";
+        "https://drive.google.com/file/d/1NEBp3h-GWxHdTAYCwU-pZCvZGpAtJ4vh/view?usp=sharing";
     }
   }, []);
 
